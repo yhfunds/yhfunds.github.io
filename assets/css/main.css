@@ -1,12 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900");
 
-/*
-	Escape Velocity by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -24,7 +18,6 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
-
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -2382,8 +2375,6 @@ input, select, textarea {
 				background: #3d4249 url("images/overlay.png");
 			}
 
-/* Copyright */
-
 	#copyright {
 		text-align: center;
 		padding-top: 6em;
@@ -2970,8 +2961,6 @@ input, select, textarea {
 					border-top: 0;
 					padding-top: 0;
 				}
-
-		/* Copyright */
 
 			#copyright {
 				padding-top: 0;
